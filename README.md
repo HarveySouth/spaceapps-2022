@@ -1,1 +1,1 @@
-# spaceapps-2022 repository for Plasma Beaters
+# spaceapps-2022 repository for Plasma βeaters
