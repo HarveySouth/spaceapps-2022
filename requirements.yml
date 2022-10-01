@@ -3,18 +3,18 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - jupyterlab
-  - xarray
-  - pandas
-  - numpy
-  - matplotlib
-  - scipy
-  - ipykernel
-  - ipython
-  - pytorch
+  - jupyterlab>=3.4.7
+  - xarray>=2022.9
+  - pandas>=1.5
+  - numpy>=1.23
+  - matplotlib>=3.6
+  - scipy>=1.9
+  - ipykernel>=6.15
+  - ipython>=8.4
+  - pytorch>=1.10
   - pytorch-lightning>=1.7
-  - scikit-learn
-  - cdflib
+  - scikit-learn>=1.1.2
+  - cdflib>=0.4
   - pip
   - pip:
     - spacepy
